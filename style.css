@@ -1,0 +1,107 @@
+body {
+    font-family: sans-serif;
+    background-color: lightgrey;
+}
+
+header {
+    padding: ;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+h1 {
+    background-color: #3900B4 ;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    padding-left: 4px;
+    padding-right: 4px;
+    color:white;
+}
+
+
+nav {
+    border-top: 10px solid #3900B4;
+    border-bottom: 10px solid #3900B4;
+        padding: 80px 80px 80px 80px;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 25px;
+    margin:10px;
+}
+nav a{
+text-decoration: none;
+color:white ;
+margin-top:5px ;
+background-color:#3900B4 ;
+border-radius: 10px;
+margin: 20px;
+padding:20px ;
+margin-bottom: 10px;
+}
+
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+
+p {
+    font-size: 24px;
+    color: white;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+
+}
+
+article {
+    background-color:#672de5;
+    padding-top:1px ;
+    padding-bottom:1px ;    
+    width: 400px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}
+
+
+footer p {
+    font-size: 24px;
+    
+}
+h3 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+footer  {
+    color: white;
+}   
+
+.table{
+    background-color: black ;
+}
+
+.hraphic{
+    background-color: black;
+}
+h3{
+    color: #672de5;
+}
+h4{
+color:#672de5;
+font-size: 20px;
+
+}
